@@ -42,6 +42,5 @@ internal class Program
     static void Update()
     {
         // Your game code run each frame here
-        Raylib.DrawCircle(400, 300, 50, Color.Red);
     }
 }
